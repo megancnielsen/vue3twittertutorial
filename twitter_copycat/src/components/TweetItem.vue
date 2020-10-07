@@ -23,12 +23,12 @@ export default {
             type: Object,
             required: true
         }
-    },
-    methods: {
-        favoriteTweet(id) {
-            this.$emit('favorite', id)
-        }
     }
+    // methods: {
+    //     favoriteTweet(id) {
+    //         this.$emit('favorite', id)
+    //     }
+    // }
 };
 </script>
 

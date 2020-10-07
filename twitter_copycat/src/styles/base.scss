@@ -1,6 +1,13 @@
+// Global styling file. Adding anything you want to this file will apply it to the entire application
+
 body {
-    margin: 900;
+    margin: 0;
 }
 
 // must create the 'vue.config.js' file in the root folder
 // vue will look for 'vue.config.js' on startup.
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
