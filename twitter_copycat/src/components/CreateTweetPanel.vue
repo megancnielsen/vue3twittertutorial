@@ -102,19 +102,6 @@ export default {
             }
         }
     }
-
-    // .newTweet {
-    //     margin: 0;
-    // }
-
-    // .user-profile_create-tweet-type {
-    //     margin: 0;
-
-    //     .newTweetType {
-    //         margin: 0;
-    //     }
-    // }
-
 }
 
 </style>
